@@ -26,3 +26,6 @@ When we  are thinking about the security for the system, it is important to thin
 - [OWASP](https://owasp.org/)
 - [CVE](https://www.cve.org/)
 - [MITRE ATT&CK](https://www.mitre.org/focus-areas/cybersecurity/mitre-attack)
+- [D3FEND](https://d3fend.mitre.org/)
+    - [ATT&CK Extractor](https://d3fend.mitre.org/tools/attack-extractor/?q=%5B%5D)
+    - [Resources](https://d3fend.mitre.org/resources/) - Important list of resources to explore in detail
